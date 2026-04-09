@@ -7,7 +7,7 @@
         <mxCell id="whn3_JXB_HfG-5zbiLU0-35" edge="1" parent="1" source="whn3_JXB_HfG-5zbiLU0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="whn3_JXB_HfG-5zbiLU0-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="whn3_JXB_HfG-5zbiLU0-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=light-dark(#fd0d0d, #ededed);" value="" vertex="1">
+        <mxCell id="whn3_JXB_HfG-5zbiLU0-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=light-dark(#fd0d0d, #ededed);labelBackgroundColor=#FFFFFF;textOpacity=0;fillColor=none;" value="" vertex="1">
           <mxGeometry height="105" width="280" x="230" y="77.5" as="geometry" />
         </mxCell>
         <mxCell id="whn3_JXB_HfG-5zbiLU0-13" edge="1" parent="1" source="whn3_JXB_HfG-5zbiLU0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="whn3_JXB_HfG-5zbiLU0-5" value="">
@@ -96,7 +96,7 @@
         <mxCell id="whn3_JXB_HfG-5zbiLU0-51" edge="1" parent="1" source="whn3_JXB_HfG-5zbiLU0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" target="whn3_JXB_HfG-5zbiLU0-54" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="whn3_JXB_HfG-5zbiLU0-52" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=light-dark(#fd0d0d, #ededed);" value="" vertex="1">
+        <mxCell id="whn3_JXB_HfG-5zbiLU0-52" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;strokeColor=light-dark(#fd0d0d, #ededed);labelBackgroundColor=none;fillColor=none;" value="" vertex="1">
           <mxGeometry height="105" width="280" x="315" y="787.5" as="geometry" />
         </mxCell>
         <mxCell id="whn3_JXB_HfG-5zbiLU0-53" edge="1" parent="1" source="whn3_JXB_HfG-5zbiLU0-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="whn3_JXB_HfG-5zbiLU0-57" value="">
